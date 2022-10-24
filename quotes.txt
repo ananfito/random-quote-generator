@@ -19,4 +19,16 @@
   quote: `"Simply live now and there will be no problems."`,
   person: `Alan Watts`
 },
+{
+  quote: `"Progress is finding a good place to stop."`,
+  person: `G.K. Chesterton`
+},
+{
+  quote: `"How we spend our days is how we spend our lives."`,
+  person: `Annie Dillard`
+},
+{
+  quote: `"Suns may set and rise again, but for us, when the brief light has set, there is a never-ending night to be slept."`,
+  person: `Catullus`
+},
 ];

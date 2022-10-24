@@ -11,8 +11,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
   text-align: center;
+  height: 100vh;
   background: url(./library.jpg) no-repeat center center/ cover;
 }
 
@@ -63,5 +63,43 @@ body {
 }
 
 .button-area button:active {
-  background-color: lightblue;
+  background-color: pink;
+}
+
+footer {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-style: italic;
+  font-size: 1rem;
+  color: white;
+  margin-top: 10px;
+
+}
+
+footer a {
+  color: white;
+}
+
+@media (width <= 550px) {
+  .container {
+    width: 350px;
+    height: 250px;
+  }
+  .header {
+    font-size: 1rem;
+  }
+
+  .main-content .text-area {
+    font-size: 1rem;
+  }
+
+  .main-content .person {
+    font-size: 1rem;
+  }
+
+  footer {
+    font-size: 0.7rem;
+  }
+
 }
