@@ -1,4 +1,4 @@
-# random-quote-generator
+# Random Quote Generator
 
 ## Contents
 - [About](#about)
